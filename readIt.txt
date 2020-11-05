@@ -1,3 +1,5 @@
 This repository has Python code.
 Made by Sachin Rawat
-SGTC
+Stryker
+JR Robotics
+
