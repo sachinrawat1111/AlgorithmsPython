@@ -1,5 +1,6 @@
-This repository has Python code.
+This repository has code for Python.
 Made by Sachin Rawat
-Stryker
-JR Robotics
-
+Stryker.
+JR Robotics.
+Guided by Rishikant Gupta.
+Under Rakesh Dutta.
