@@ -3,4 +3,4 @@ Made by Sachin Rawat
 Stryker.
 JR Robotics.
 Guided by Rishikant Gupta.
-Under Rakesh Dutta in DevOps.
+Under Rakesh Dutta. In the Developement Operations.
